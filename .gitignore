@@ -1,0 +1,12 @@
+# Fichiers Python inutiles
+*.pyc
+__pycache__/
+
+# Musiques MP3 (tu les as localement, pas besoin de les stocker sur GitHub)
+*.mp3
+
+# Environnement virtuel (si tu en as un)
+venv/
+
+# Fichiers de configuration locaux (facultatif)
+.env
