@@ -49,7 +49,7 @@ Je suis étudiant en école d’ingénieur à Polytech Sorbonne, passionné par 
 
 ## 🔗 Liens utiles
 
-- [Mon profil LinkedIn](https://www.linkedin.com/in/enriquealex)
+- [Mon profil LinkedIn](https://www.linkedin.com/in/alex-ndjakou?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [Page du projet GitHub](https://github.com/enrique-alex/assistant-musical-python)
 
 
