@@ -50,6 +50,6 @@ Je suis étudiant en école d’ingénieur à Polytech Sorbonne, passionné par 
 ## 🔗 Liens utiles
 
 - [Mon profil LinkedIn](https://www.linkedin.com/in/enriquealex)
-- [Page du projet GitHub]([https://github.com/ton-utilisateur/PyGroove](https://github.com/enrique-alex/assistant-musical-python))
+- [Page du projet GitHub](https://github.com/enrique-alex/assistant-musical-python)
 
 
