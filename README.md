@@ -1,4 +1,4 @@
-# 🎧 PyGroove – Assistant musical intelligent en Python
+#  PyGroove – Assistant musical intelligent en Python
 
 PyGroove est un lecteur de musique intelligent et interactif développé en Python. Il combine interface graphique, contrôle vocal, affichage des métadonnées, et synchronisation des paroles pour offrir une expérience utilisateur moderne et personnalisée.
 
